@@ -42,7 +42,7 @@
 
             display-name = "Lower";
             bindings = <
-&bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3      &bt BT_SEL 4                    &trans  &trans          &kp C_MUTE      &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans
+&bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3      &bt BT_SEL 4                    &trans  &trans          &kp C_MUTE      &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp DELETE
 &kp F1          &kp F2        &kp F3        &kp F4        &kp F5            &kp F6                          &trans  &trans          &kp UP_ARROW    &trans             &kp F11          &kp F12
 &kp GRAVE       &kp EXCL      &kp AT        &kp HASH      &kp DOLLAR        &kp PRCNT                       &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW    &kp RPAR         &kp TILDE
 &kp LEFT_SHIFT  &trans        &trans        &trans        &trans            &trans        &trans    &trans  &trans  &trans          &trans          &trans             &kp RBRC         &kp PIPE
